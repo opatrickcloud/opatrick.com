@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/opatrick.com.ico",
     "slug": "opatrick",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
+    "uptime": "29.46%",
+    "uptimeDay": "29.46%",
+    "uptimeWeek": "29.46%",
+    "uptimeMonth": "29.46%",
+    "uptimeYear": "29.46%",
+    "time": 73,
+    "timeDay": 73,
+    "timeWeek": 73,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {
-      "2023-08-31": 4
+      "2023-08-31": 9
     }
   }
 ]
